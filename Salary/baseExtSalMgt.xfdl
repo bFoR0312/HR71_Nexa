@@ -59,7 +59,8 @@ this.Div00_00_Button00_onclick = function(obj:nexacro.Button,e:nexacro.ClickEven
 					 "",
 					 "fn_callback");
 };
-]]></Script>
+
+//깃허브 확인용 주석 추가]]></Script>
     <Objects>
       <Dataset id="ds_baseExtSalMgt">
         <ColumnInfo>
